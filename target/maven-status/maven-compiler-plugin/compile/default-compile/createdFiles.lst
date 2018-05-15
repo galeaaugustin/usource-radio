@@ -1,0 +1,10 @@
+ro\usource\radio\controller\LoginController.class
+ro\usource\radio\service\UserService.class
+ro\usource\radio\UsourceRadioApplication.class
+ro\usource\radio\model\User.class
+ro\usource\radio\configuration\WebMvcConfig.class
+ro\usource\radio\service\UserServiceImpl.class
+ro\usource\radio\configuration\SecurityConfiguration.class
+ro\usource\radio\model\Role.class
+ro\usource\radio\repository\RoleRepository.class
+ro\usource\radio\repository\UserRepository.class

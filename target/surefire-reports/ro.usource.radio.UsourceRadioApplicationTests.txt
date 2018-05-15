@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ro.usource.radio.UsourceRadioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.837 sec - in ro.usource.radio.UsourceRadioApplicationTests
